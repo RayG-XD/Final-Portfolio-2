@@ -3,8 +3,8 @@
 
   Portfolio Website:
   
-  pratikpol.tv
-  
-  light.pratikpol.tv
-  
-  dark.pratikpol.tv
+  https://www.pratikpol.tv/
+
+  https://light.pratikpol.tv/
+
+  https://dark.pratikpol.tv/
